@@ -1,0 +1,214 @@
+{
+  "generated_at": "2026-07-03T03:04:23.552805+00:00",
+  "notes": [
+    "Auth/config/cache files are excluded.",
+    "Common secret-looking keys and values are redacted.",
+    "Codex encrypted reasoning payloads are omitted."
+  ],
+  "sources": [
+    {
+      "output": "data/raw-sanitized/codex/sessions/2026/06/16/rollout-2026-06-16T18-08-28-019ecfe7-62b7-7760-b1d6-8e5486416c7f.jsonl",
+      "path": "/data/home/sheshuchen/.codex/sessions/2026/06/16/rollout-2026-06-16T18-08-28-019ecfe7-62b7-7760-b1d6-8e5486416c7f.jsonl",
+      "records": 15,
+      "source": "codex_session"
+    },
+    {
+      "output": "data/raw-sanitized/codex/sessions/2026/06/16/rollout-2026-06-16T19-08-01-019ed01d-ea06-7322-add9-2174e344218d.jsonl",
+      "path": "/data/home/sheshuchen/.codex/sessions/2026/06/16/rollout-2026-06-16T19-08-01-019ed01d-ea06-7322-add9-2174e344218d.jsonl",
+      "records": 16,
+      "source": "codex_session"
+    },
+    {
+      "output": "data/raw-sanitized/codex/sessions/2026/06/17/rollout-2026-06-17T19-05-32-019ed541-fdbb-7272-bb01-b61040da0abc.jsonl",
+      "path": "/data/home/sheshuchen/.codex/sessions/2026/06/17/rollout-2026-06-17T19-05-32-019ed541-fdbb-7272-bb01-b61040da0abc.jsonl",
+      "records": 9,
+      "source": "codex_session"
+    },
+    {
+      "output": "data/raw-sanitized/codex/sessions/2026/06/17/rollout-2026-06-17T19-06-47-019ed543-2514-7902-b05b-30e76fa24eef.jsonl",
+      "path": "/data/home/sheshuchen/.codex/sessions/2026/06/17/rollout-2026-06-17T19-06-47-019ed543-2514-7902-b05b-30e76fa24eef.jsonl",
+      "records": 9,
+      "source": "codex_session"
+    },
+    {
+      "output": "data/raw-sanitized/codex/sessions/2026/06/17/rollout-2026-06-17T22-56-51-019ed615-c4a1-7701-bc6e-aaba832f3f87.jsonl",
+      "path": "/data/home/sheshuchen/.codex/sessions/2026/06/17/rollout-2026-06-17T22-56-51-019ed615-c4a1-7701-bc6e-aaba832f3f87.jsonl",
+      "records": 15,
+      "source": "codex_session"
+    },
+    {
+      "output": "data/raw-sanitized/codex/sessions/2026/06/17/rollout-2026-06-17T22-59-51-019ed618-82ff-7ba1-b7b8-6272188ad30b.jsonl",
+      "path": "/data/home/sheshuchen/.codex/sessions/2026/06/17/rollout-2026-06-17T22-59-51-019ed618-82ff-7ba1-b7b8-6272188ad30b.jsonl",
+      "records": 350,
+      "source": "codex_session"
+    },
+    {
+      "output": "data/raw-sanitized/codex/sessions/2026/06/17/rollout-2026-06-17T23-54-48-019ed64a-d187-7171-88da-b891eca95ba4.jsonl",
+      "path": "/data/home/sheshuchen/.codex/sessions/2026/06/17/rollout-2026-06-17T23-54-48-019ed64a-d187-7171-88da-b891eca95ba4.jsonl",
+      "records": 9,
+      "source": "codex_session"
+    },
+    {
+      "output": "data/raw-sanitized/codex/sessions/2026/06/18/rollout-2026-06-18T12-57-24-019ed917-4f88-7b71-9540-72492f19f612.jsonl",
+      "path": "/data/home/sheshuchen/.codex/sessions/2026/06/18/rollout-2026-06-18T12-57-24-019ed917-4f88-7b71-9540-72492f19f612.jsonl",
+      "records": 1043,
+      "source": "codex_session"
+    },
+    {
+      "output": "data/raw-sanitized/codex/sessions/2026/06/18/rollout-2026-06-18T16-25-33-019ed9d5-e0df-7d23-9f1e-4d3e6cfa5802.jsonl",
+      "path": "/data/home/sheshuchen/.codex/sessions/2026/06/18/rollout-2026-06-18T16-25-33-019ed9d5-e0df-7d23-9f1e-4d3e6cfa5802.jsonl",
+      "records": 9,
+      "source": "codex_session"
+    },
+    {
+      "output": "data/raw-sanitized/codex/sessions/2026/06/18/rollout-2026-06-18T17-11-19-019ed9ff-c787-7001-9fb1-9bbecda4c10e.jsonl",
+      "path": "/data/home/sheshuchen/.codex/sessions/2026/06/18/rollout-2026-06-18T17-11-19-019ed9ff-c787-7001-9fb1-9bbecda4c10e.jsonl",
+      "records": 9,
+      "source": "codex_session"
+    },
+    {
+      "output": "data/raw-sanitized/codex/sessions/2026/06/18/rollout-2026-06-18T17-19-52-019eda07-9df8-7863-ba99-c2328437a24f.jsonl",
+      "path": "/data/home/sheshuchen/.codex/sessions/2026/06/18/rollout-2026-06-18T17-19-52-019eda07-9df8-7863-ba99-c2328437a24f.jsonl",
+      "records": 230,
+      "source": "codex_session"
+    },
+    {
+      "output": "data/raw-sanitized/codex/sessions/2026/06/18/rollout-2026-06-18T19-25-38-019eda7a-bfd0-7330-90ea-1a49f3d57667.jsonl",
+      "path": "/data/home/sheshuchen/.codex/sessions/2026/06/18/rollout-2026-06-18T19-25-38-019eda7a-bfd0-7330-90ea-1a49f3d57667.jsonl",
+      "records": 9016,
+      "source": "codex_session"
+    },
+    {
+      "output": "data/raw-sanitized/codex/sessions/2026/06/19/rollout-2026-06-19T20-54-55-019edff2-da6e-71c2-8e88-058645e9e1e0.jsonl",
+      "path": "/data/home/sheshuchen/.codex/sessions/2026/06/19/rollout-2026-06-19T20-54-55-019edff2-da6e-71c2-8e88-058645e9e1e0.jsonl",
+      "records": 9,
+      "source": "codex_session"
+    },
+    {
+      "output": "data/raw-sanitized/codex/sessions/2026/06/20/rollout-2026-06-20T13-15-39-019ee374-c007-7dc3-bce9-428a8b62ae8f.jsonl",
+      "path": "/data/home/sheshuchen/.codex/sessions/2026/06/20/rollout-2026-06-20T13-15-39-019ee374-c007-7dc3-bce9-428a8b62ae8f.jsonl",
+      "records": 266,
+      "source": "codex_session"
+    },
+    {
+      "output": "data/raw-sanitized/codex/sessions/2026/06/23/rollout-2026-06-23T13-16-14-019ef2e8-5ad6-74a1-b667-871f55075d12.jsonl",
+      "path": "/data/home/sheshuchen/.codex/sessions/2026/06/23/rollout-2026-06-23T13-16-14-019ef2e8-5ad6-74a1-b667-871f55075d12.jsonl",
+      "records": 9,
+      "source": "codex_session"
+    },
+    {
+      "output": "data/raw-sanitized/codex/sessions/2026/06/23/rollout-2026-06-23T13-17-57-019ef2e9-edee-7172-9e57-28ccc9ecc39d.jsonl",
+      "path": "/data/home/sheshuchen/.codex/sessions/2026/06/23/rollout-2026-06-23T13-17-57-019ef2e9-edee-7172-9e57-28ccc9ecc39d.jsonl",
+      "records": 76,
+      "source": "codex_session"
+    },
+    {
+      "output": "data/raw-sanitized/codex/sessions/2026/06/25/rollout-2026-06-25T14-26-53-019efd75-bfbf-7c82-a9ea-67edb3d86909.jsonl",
+      "path": "/data/home/sheshuchen/.codex/sessions/2026/06/25/rollout-2026-06-25T14-26-53-019efd75-bfbf-7c82-a9ea-67edb3d86909.jsonl",
+      "records": 1138,
+      "source": "codex_session"
+    },
+    {
+      "output": "data/raw-sanitized/codex/sessions/2026/06/25/rollout-2026-06-25T15-40-56-019efdb9-8d85-7203-b1d1-a7fef546d80e.jsonl",
+      "path": "/data/home/sheshuchen/.codex/sessions/2026/06/25/rollout-2026-06-25T15-40-56-019efdb9-8d85-7203-b1d1-a7fef546d80e.jsonl",
+      "records": 9,
+      "source": "codex_session"
+    },
+    {
+      "output": "data/raw-sanitized/codex/sessions/2026/06/25/rollout-2026-06-25T15-54-11-019efdc5-acc7-7e93-9fcd-3396cd466443.jsonl",
+      "path": "/data/home/sheshuchen/.codex/sessions/2026/06/25/rollout-2026-06-25T15-54-11-019efdc5-acc7-7e93-9fcd-3396cd466443.jsonl",
+      "records": 536,
+      "source": "codex_session"
+    },
+    {
+      "output": "data/raw-sanitized/codex/sessions/2026/06/27/rollout-2026-06-27T12-50-05-019f0769-da1b-79c0-9ba8-8054b5c7ea94.jsonl",
+      "path": "/data/home/sheshuchen/.codex/sessions/2026/06/27/rollout-2026-06-27T12-50-05-019f0769-da1b-79c0-9ba8-8054b5c7ea94.jsonl",
+      "records": 2230,
+      "source": "codex_session"
+    },
+    {
+      "output": "data/raw-sanitized/codex/sessions/2026/06/30/rollout-2026-06-30T17-37-02-019f17e3-a59a-71f2-9db7-3d35a976932d.jsonl",
+      "path": "/data/home/sheshuchen/.codex/sessions/2026/06/30/rollout-2026-06-30T17-37-02-019f17e3-a59a-71f2-9db7-3d35a976932d.jsonl",
+      "records": 145,
+      "source": "codex_session"
+    },
+    {
+      "output": "data/raw-sanitized/codex/sessions/2026/07/02/rollout-2026-07-02T13-01-04-019f2133-b2d4-7a20-bccd-4076e2539910.jsonl",
+      "path": "/data/home/sheshuchen/.codex/sessions/2026/07/02/rollout-2026-07-02T13-01-04-019f2133-b2d4-7a20-bccd-4076e2539910.jsonl",
+      "records": 418,
+      "source": "codex_session"
+    },
+    {
+      "output": "data/raw-sanitized/codex/sessions/2026/07/02/rollout-2026-07-02T13-12-17-019f213d-f882-7111-8f9d-ee874b52e6d4.jsonl",
+      "path": "/data/home/sheshuchen/.codex/sessions/2026/07/02/rollout-2026-07-02T13-12-17-019f213d-f882-7111-8f9d-ee874b52e6d4.jsonl",
+      "records": 735,
+      "source": "codex_session"
+    },
+    {
+      "output": "data/raw-sanitized/codex/sessions/2026/07/02/rollout-2026-07-02T13-26-17-019f214a-cc5e-7d61-8979-d79e143924cd.jsonl",
+      "path": "/data/home/sheshuchen/.codex/sessions/2026/07/02/rollout-2026-07-02T13-26-17-019f214a-cc5e-7d61-8979-d79e143924cd.jsonl",
+      "records": 1524,
+      "source": "codex_session"
+    },
+    {
+      "output": "data/raw-sanitized/claude/projects/-data-home-sheshuchen/e6bcd808-672a-4867-9fca-c0031432ee7f.jsonl",
+      "path": "/data/home/sheshuchen/.claude/projects/-data-home-sheshuchen/e6bcd808-672a-4867-9fca-c0031432ee7f.jsonl",
+      "records": 5,
+      "source": "claude_project"
+    },
+    {
+      "output": "data/raw-sanitized/claude/projects/-data-home-sheshuchen-MiMo-Code-agent-trace-proxy-logs/453930f6-9aff-4701-8d3b-85d39948b675.jsonl",
+      "path": "/data/home/sheshuchen/.claude/projects/-data-home-sheshuchen-MiMo-Code-agent-trace-proxy-logs/453930f6-9aff-4701-8d3b-85d39948b675.jsonl",
+      "records": 1362,
+      "source": "claude_project"
+    },
+    {
+      "output": "data/raw-sanitized/claude/projects/-data-home-sheshuchen-MiMo-Code-agent-trace-proxy-logs/c068b59d-69c2-418f-97f1-1615d6a5e0be.jsonl",
+      "path": "/data/home/sheshuchen/.claude/projects/-data-home-sheshuchen-MiMo-Code-agent-trace-proxy-logs/c068b59d-69c2-418f-97f1-1615d6a5e0be.jsonl",
+      "records": 3127,
+      "source": "claude_project"
+    },
+    {
+      "output": "data/raw-sanitized/claude/projects/-data-home-sheshuchen-ssc-dataset-trace-forest-exp3-claude-code-workspace/930febf7-62f2-4d9e-a259-6f490c7cee55.jsonl",
+      "path": "/data/home/sheshuchen/.claude/projects/-data-home-sheshuchen-ssc-dataset-trace-forest-exp3-claude-code-workspace/930febf7-62f2-4d9e-a259-6f490c7cee55.jsonl",
+      "records": 50,
+      "source": "claude_project"
+    },
+    {
+      "output": "data/raw-sanitized/claude/projects/-data-home-sheshuchen-ssc-dataset-trace-forest-exp3-claude-code-workspace/bdb893f1-f20e-4ff8-b3ac-b1732e5aa69c.jsonl",
+      "path": "/data/home/sheshuchen/.claude/projects/-data-home-sheshuchen-ssc-dataset-trace-forest-exp3-claude-code-workspace/bdb893f1-f20e-4ff8-b3ac-b1732e5aa69c.jsonl",
+      "records": 7,
+      "source": "claude_project"
+    },
+    {
+      "output": "data/raw-sanitized/claude/projects/-data-home-sheshuchen-ssc-dataset-trace-forest-exp3-claude-code-workspace/c1f280ab-b711-4c9f-b69b-4f1ec4380a24.jsonl",
+      "path": "/data/home/sheshuchen/.claude/projects/-data-home-sheshuchen-ssc-dataset-trace-forest-exp3-claude-code-workspace/c1f280ab-b711-4c9f-b69b-4f1ec4380a24.jsonl",
+      "records": 7,
+      "source": "claude_project"
+    },
+    {
+      "output": "data/raw-sanitized/claude/projects/-data-home-sheshuchen-ssc-dataset-trace-forest-exp4-cc-reminders-workspace/c941fb19-2b81-43b7-ad66-d9f9d8dc494d.jsonl",
+      "path": "/data/home/sheshuchen/.claude/projects/-data-home-sheshuchen-ssc-dataset-trace-forest-exp4-cc-reminders-workspace/c941fb19-2b81-43b7-ad66-d9f9d8dc494d.jsonl",
+      "records": 66,
+      "source": "claude_project"
+    },
+    {
+      "output": "data/raw-sanitized/claude/projects/-data-home-sheshuchen-ssc-dataset-trace-forest-exp5-context-fill-workspace/36c1dca8-9991-452b-9f38-a27a30594241.jsonl",
+      "path": "/data/home/sheshuchen/.claude/projects/-data-home-sheshuchen-ssc-dataset-trace-forest-exp5-context-fill-workspace/36c1dca8-9991-452b-9f38-a27a30594241.jsonl",
+      "records": 16,
+      "source": "claude_project"
+    },
+    {
+      "output": "data/raw-sanitized/claude/projects/-data-home-sheshuchen-ssc-dataset-trace-forest-exp5-context-fill-workspace/7d3d41c9-981f-4641-994d-73ff3f89d894.jsonl",
+      "path": "/data/home/sheshuchen/.claude/projects/-data-home-sheshuchen-ssc-dataset-trace-forest-exp5-context-fill-workspace/7d3d41c9-981f-4641-994d-73ff3f89d894.jsonl",
+      "records": 31,
+      "source": "claude_project"
+    },
+    {
+      "output": "data/raw-sanitized/claude/projects/-data-home-sheshuchen-ssc-dataset-trace-forest-exp5-context-fill-workspace2/718034a0-98c8-4c2d-8b51-bab546e761bc.jsonl",
+      "path": "/data/home/sheshuchen/.claude/projects/-data-home-sheshuchen-ssc-dataset-trace-forest-exp5-context-fill-workspace2/718034a0-98c8-4c2d-8b51-bab546e761bc.jsonl",
+      "records": 24,
+      "source": "claude_project"
+    }
+  ]
+}

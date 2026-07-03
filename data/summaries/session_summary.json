@@ -1,0 +1,1006 @@
+[
+  {
+    "event_type_counts": {
+      "session_meta": 1,
+      "task_complete": 1,
+      "task_started": 2,
+      "token_count": 1,
+      "turn_aborted": 1,
+      "turn_context": 2,
+      "user_message": 6
+    },
+    "events": 14,
+    "first_timestamp": "2026-06-16T11:03:36.670Z",
+    "first_user_message_preview": "<environment_context>\n  <cwd>/data/home/sheshuchen</cwd>\n  <shell>bash</shell>\n  <current_date>2026-06-16</current_date>\n  <timezone>Asia/Shanghai</timezone>\n</environment_context>",
+    "last_timestamp": "2026-06-16T11:04:31.680Z",
+    "records": 15,
+    "session_ids": [
+      "019ecfe7-62b7-7760-b1d6-8e5486416c7f"
+    ],
+    "source": "codex",
+    "source_file": "/data/home/sheshuchen/.codex/sessions/2026/06/16/rollout-2026-06-16T18-08-28-019ecfe7-62b7-7760-b1d6-8e5486416c7f.jsonl",
+    "source_file_id": "63c6e36e98950353",
+    "tool_call_count": 0,
+    "tool_names": {},
+    "usage_event_count": 0
+  },
+  {
+    "event_type_counts": {
+      "session_meta": 1,
+      "task_complete": 2,
+      "task_started": 2,
+      "token_count": 2,
+      "turn_context": 2,
+      "user_message": 5
+    },
+    "events": 14,
+    "first_timestamp": "2026-06-16T11:08:46.447Z",
+    "first_user_message_preview": "<environment_context>\n  <cwd>/data/home/sheshuchen</cwd>\n  <shell>bash</shell>\n  <current_date>2026-06-16</current_date>\n  <timezone>Asia/Shanghai</timezone>\n</environment_context>",
+    "last_timestamp": "2026-06-16T11:08:59.684Z",
+    "records": 16,
+    "session_ids": [
+      "019ed01d-ea06-7322-add9-2174e344218d"
+    ],
+    "source": "codex",
+    "source_file": "/data/home/sheshuchen/.codex/sessions/2026/06/16/rollout-2026-06-16T19-08-01-019ed01d-ea06-7322-add9-2174e344218d.jsonl",
+    "source_file_id": "91c88f201b4bd0f3",
+    "tool_call_count": 0,
+    "tool_names": {},
+    "usage_event_count": 0
+  },
+  {
+    "event_type_counts": {
+      "session_meta": 1,
+      "task_started": 1,
+      "turn_aborted": 1,
+      "turn_context": 1,
+      "user_message": 4
+    },
+    "events": 8,
+    "first_timestamp": "2026-06-17T11:05:42.604Z",
+    "first_user_message_preview": "<environment_context>\n  <cwd>/data/home/sheshuchen</cwd>\n  <shell>bash</shell>\n  <current_date>2026-06-17</current_date>\n  <timezone>Asia/Shanghai</timezone>\n</environment_context>",
+    "last_timestamp": "2026-06-17T11:06:02.725Z",
+    "records": 9,
+    "session_ids": [
+      "019ed541-fdbb-7272-bb01-b61040da0abc"
+    ],
+    "source": "codex",
+    "source_file": "/data/home/sheshuchen/.codex/sessions/2026/06/17/rollout-2026-06-17T19-05-32-019ed541-fdbb-7272-bb01-b61040da0abc.jsonl",
+    "source_file_id": "db3755fb0dc4b5aa",
+    "tool_call_count": 0,
+    "tool_names": {},
+    "usage_event_count": 0
+  },
+  {
+    "event_type_counts": {
+      "session_meta": 1,
+      "task_started": 1,
+      "turn_aborted": 1,
+      "turn_context": 1,
+      "user_message": 4
+    },
+    "events": 8,
+    "first_timestamp": "2026-06-17T11:07:16.114Z",
+    "first_user_message_preview": "<environment_context>\n  <cwd>/data/home/sheshuchen</cwd>\n  <shell>bash</shell>\n  <current_date>2026-06-17</current_date>\n  <timezone>Asia/Shanghai</timezone>\n</environment_context>",
+    "last_timestamp": "2026-06-17T11:07:33.055Z",
+    "records": 9,
+    "session_ids": [
+      "019ed543-2514-7902-b05b-30e76fa24eef"
+    ],
+    "source": "codex",
+    "source_file": "/data/home/sheshuchen/.codex/sessions/2026/06/17/rollout-2026-06-17T19-06-47-019ed543-2514-7902-b05b-30e76fa24eef.jsonl",
+    "source_file_id": "335a29513d3817dc",
+    "tool_call_count": 0,
+    "tool_names": {},
+    "usage_event_count": 0
+  },
+  {
+    "event_type_counts": {
+      "session_meta": 1,
+      "task_complete": 2,
+      "task_started": 2,
+      "token_count": 2,
+      "turn_context": 2,
+      "user_message": 5
+    },
+    "events": 14,
+    "first_timestamp": "2026-06-17T14:57:34.443Z",
+    "first_user_message_preview": "<environment_context>\n  <cwd>/data/home/sheshuchen</cwd>\n  <shell>bash</shell>\n  <current_date>2026-06-17</current_date>\n  <timezone>Asia/Shanghai</timezone>\n</environment_context>",
+    "last_timestamp": "2026-06-17T14:57:52.902Z",
+    "records": 15,
+    "session_ids": [
+      "019ed615-c4a1-7701-bc6e-aaba832f3f87"
+    ],
+    "source": "codex",
+    "source_file": "/data/home/sheshuchen/.codex/sessions/2026/06/17/rollout-2026-06-17T22-56-51-019ed615-c4a1-7701-bc6e-aaba832f3f87.jsonl",
+    "source_file_id": "f49226daa0e325f9",
+    "tool_call_count": 0,
+    "tool_names": {},
+    "usage_event_count": 0
+  },
+  {
+    "event_type_counts": {
+      "agent_message": 32,
+      "assistant_message": 32,
+      "assistant_reasoning": 35,
+      "session_meta": 1,
+      "task_complete": 7,
+      "task_started": 7,
+      "token_count": 36,
+      "tool_call": 79,
+      "tool_result": 79,
+      "turn_context": 7,
+      "user_message": 16,
+      "web_search_end": 7
+    },
+    "events": 338,
+    "first_timestamp": "2026-06-17T15:00:06.915Z",
+    "first_user_message_preview": "<environment_context>\n  <cwd>/data/home/sheshuchen</cwd>\n  <shell>bash</shell>\n  <current_date>2026-06-17</current_date>\n  <timezone>Asia/Shanghai</timezone>\n</environment_context>",
+    "last_timestamp": "2026-06-17T16:00:29.525Z",
+    "records": 350,
+    "session_ids": [
+      "019ed618-82ff-7ba1-b7b8-6272188ad30b"
+    ],
+    "source": "codex",
+    "source_file": "/data/home/sheshuchen/.codex/sessions/2026/06/17/rollout-2026-06-17T22-59-51-019ed618-82ff-7ba1-b7b8-6272188ad30b.jsonl",
+    "source_file_id": "c854422ce69da7f6",
+    "tool_call_count": 79,
+    "tool_names": {
+      "exec_command": 72,
+      "write_stdin": 7
+    },
+    "usage_event_count": 36
+  },
+  {
+    "event_type_counts": {
+      "session_meta": 1,
+      "task_started": 1,
+      "turn_aborted": 1,
+      "turn_context": 1,
+      "user_message": 4
+    },
+    "events": 8,
+    "first_timestamp": "2026-06-17T15:55:20.196Z",
+    "first_user_message_preview": "<environment_context>\n  <cwd>/data/home/sheshuchen</cwd>\n  <shell>bash</shell>\n  <current_date>2026-06-17</current_date>\n  <timezone>Asia/Shanghai</timezone>\n</environment_context>",
+    "last_timestamp": "2026-06-17T15:56:12.883Z",
+    "records": 9,
+    "session_ids": [
+      "019ed64a-d187-7171-88da-b891eca95ba4"
+    ],
+    "source": "codex",
+    "source_file": "/data/home/sheshuchen/.codex/sessions/2026/06/17/rollout-2026-06-17T23-54-48-019ed64a-d187-7171-88da-b891eca95ba4.jsonl",
+    "source_file_id": "5c305e3968755c59",
+    "tool_call_count": 0,
+    "tool_names": {},
+    "usage_event_count": 0
+  },
+  {
+    "event_type_counts": {
+      "agent_message": 112,
+      "assistant_message": 112,
+      "assistant_reasoning": 130,
+      "compacted": 1,
+      "context_compacted": 1,
+      "patch_apply_end": 8,
+      "session_meta": 1,
+      "task_complete": 2,
+      "task_started": 3,
+      "token_count": 161,
+      "tool_call": 225,
+      "tool_result": 225,
+      "turn_aborted": 1,
+      "turn_context": 4,
+      "user_message": 8,
+      "web_search_end": 5
+    },
+    "events": 999,
+    "first_timestamp": "2026-06-18T04:57:49.023Z",
+    "first_user_message_preview": "# AGENTS.md instructions for /data/home/sheshuchen/MiMo-Code\n\n<INSTRUCTIONS>\n- Always use superpowers skill instead of builtin plan mode.\n- To regenerate the JavaScript SDK, run `./packages/sdk/js/script/build.ts`.\n- ALWAYS USE PARALLEL TOOLS WHEN APPLICABLE.\n- The default branch in this repo is `dev`.\n- Local `main` ref may not exist; use `dev` or `origin/dev` for diffs.\n- Prefer automation: execute requested actions without confirmation unless blocked by missing info or safety/irreversibility.\n...[truncated 2491 chars]",
+    "last_timestamp": "2026-06-18T05:52:15.800Z",
+    "records": 1043,
+    "session_ids": [
+      "019ed917-4f88-7b71-9540-72492f19f612"
+    ],
+    "source": "codex",
+    "source_file": "/data/home/sheshuchen/.codex/sessions/2026/06/18/rollout-2026-06-18T12-57-24-019ed917-4f88-7b71-9540-72492f19f612.jsonl",
+    "source_file_id": "525a5124836ed253",
+    "tool_call_count": 225,
+    "tool_names": {
+      "exec_command": 124,
+      "write_stdin": 101
+    },
+    "usage_event_count": 161
+  },
+  {
+    "event_type_counts": {
+      "session_meta": 1,
+      "task_started": 1,
+      "turn_aborted": 1,
+      "turn_context": 1,
+      "user_message": 4
+    },
+    "events": 8,
+    "first_timestamp": "2026-06-18T08:25:44.202Z",
+    "first_user_message_preview": "<environment_context>\n  <cwd>/data/home/sheshuchen</cwd>\n  <shell>bash</shell>\n  <current_date>2026-06-18</current_date>\n  <timezone>Asia/Shanghai</timezone>\n</environment_context>",
+    "last_timestamp": "2026-06-18T08:28:00.495Z",
+    "records": 9,
+    "session_ids": [
+      "019ed9d5-e0df-7d23-9f1e-4d3e6cfa5802"
+    ],
+    "source": "codex",
+    "source_file": "/data/home/sheshuchen/.codex/sessions/2026/06/18/rollout-2026-06-18T16-25-33-019ed9d5-e0df-7d23-9f1e-4d3e6cfa5802.jsonl",
+    "source_file_id": "383c4e836f445d85",
+    "tool_call_count": 0,
+    "tool_names": {},
+    "usage_event_count": 0
+  },
+  {
+    "event_type_counts": {
+      "session_meta": 1,
+      "task_complete": 1,
+      "task_started": 1,
+      "token_count": 1,
+      "turn_context": 1,
+      "user_message": 3
+    },
+    "events": 8,
+    "first_timestamp": "2026-06-18T09:15:42.451Z",
+    "first_user_message_preview": "<environment_context>\n  <cwd>/data/home/sheshuchen</cwd>\n  <shell>bash</shell>\n  <current_date>2026-06-18</current_date>\n  <timezone>Asia/Shanghai</timezone>\n</environment_context>",
+    "last_timestamp": "2026-06-18T09:15:44.230Z",
+    "records": 9,
+    "session_ids": [
+      "019ed9ff-c787-7001-9fb1-9bbecda4c10e"
+    ],
+    "source": "codex",
+    "source_file": "/data/home/sheshuchen/.codex/sessions/2026/06/18/rollout-2026-06-18T17-11-19-019ed9ff-c787-7001-9fb1-9bbecda4c10e.jsonl",
+    "source_file_id": "50dc113c810b58a9",
+    "tool_call_count": 0,
+    "tool_names": {},
+    "usage_event_count": 0
+  },
+  {
+    "event_type_counts": {
+      "agent_message": 27,
+      "assistant_message": 27,
+      "assistant_reasoning": 22,
+      "patch_apply_end": 2,
+      "session_meta": 1,
+      "task_complete": 2,
+      "task_started": 3,
+      "token_count": 31,
+      "tool_call": 47,
+      "tool_result": 47,
+      "turn_aborted": 1,
+      "turn_context": 3,
+      "user_message": 8
+    },
+    "events": 221,
+    "first_timestamp": "2026-06-18T09:20:13.798Z",
+    "first_user_message_preview": "<environment_context>\n  <cwd>/data/home/sheshuchen</cwd>\n  <shell>bash</shell>\n  <current_date>2026-06-18</current_date>\n  <timezone>Asia/Shanghai</timezone>\n</environment_context>",
+    "last_timestamp": "2026-06-18T09:28:57.124Z",
+    "records": 230,
+    "session_ids": [
+      "019eda07-9df8-7863-ba99-c2328437a24f"
+    ],
+    "source": "codex",
+    "source_file": "/data/home/sheshuchen/.codex/sessions/2026/06/18/rollout-2026-06-18T17-19-52-019eda07-9df8-7863-ba99-c2328437a24f.jsonl",
+    "source_file_id": "9830f48f9884cec4",
+    "tool_call_count": 47,
+    "tool_names": {
+      "exec_command": 45,
+      "write_stdin": 2
+    },
+    "usage_event_count": 31
+  },
+  {
+    "event_type_counts": {
+      "agent_message": 917,
+      "assistant_message": 917,
+      "assistant_reasoning": 809,
+      "compacted": 13,
+      "context_compacted": 13,
+      "patch_apply_end": 68,
+      "session_meta": 1,
+      "task_complete": 88,
+      "task_started": 100,
+      "token_count": 1255,
+      "tool_call": 2119,
+      "tool_result": 2119,
+      "turn_aborted": 10,
+      "turn_context": 109,
+      "user_message": 215,
+      "web_search_end": 11
+    },
+    "events": 8764,
+    "first_timestamp": "2026-06-18T11:26:00.720Z",
+    "first_user_message_preview": "# AGENTS.md instructions for /data/home/sheshuchen/MiMo-Code/agent-trace-proxy/logs\n\n<INSTRUCTIONS>\n- Always use superpowers skill instead of builtin plan mode.\n- To regenerate the JavaScript SDK, run `./packages/sdk/js/script/build.ts`.\n- ALWAYS USE PARALLEL TOOLS WHEN APPLICABLE.\n- The default branch in this repo is `dev`.\n- Local `main` ref may not exist; use `dev` or `origin/dev` for diffs.\n- Prefer automation: execute requested actions without confirmation unless blocked by missing info or \n...[truncated 2524 chars]",
+    "last_timestamp": "2026-06-30T09:39:43.293Z",
+    "records": 9016,
+    "session_ids": [
+      "019eda7a-bfd0-7330-90ea-1a49f3d57667"
+    ],
+    "source": "codex",
+    "source_file": "/data/home/sheshuchen/.codex/sessions/2026/06/18/rollout-2026-06-18T19-25-38-019eda7a-bfd0-7330-90ea-1a49f3d57667.jsonl",
+    "source_file_id": "8655d08b35b383ba",
+    "tool_call_count": 2119,
+    "tool_names": {
+      "exec_command": 1803,
+      "update_plan": 20,
+      "write_stdin": 296
+    },
+    "usage_event_count": 1255
+  },
+  {
+    "event_type_counts": {
+      "session_meta": 1,
+      "task_started": 1,
+      "turn_aborted": 1,
+      "turn_context": 1,
+      "user_message": 4
+    },
+    "events": 8,
+    "first_timestamp": "2026-06-19T12:55:08.422Z",
+    "first_user_message_preview": "<environment_context>\n  <cwd>/data/home/sheshuchen</cwd>\n  <shell>bash</shell>\n  <current_date>2026-06-19</current_date>\n  <timezone>Asia/Shanghai</timezone>\n</environment_context>",
+    "last_timestamp": "2026-06-19T12:56:05.500Z",
+    "records": 9,
+    "session_ids": [
+      "019edff2-da6e-71c2-8e88-058645e9e1e0"
+    ],
+    "source": "codex",
+    "source_file": "/data/home/sheshuchen/.codex/sessions/2026/06/19/rollout-2026-06-19T20-54-55-019edff2-da6e-71c2-8e88-058645e9e1e0.jsonl",
+    "source_file_id": "995f61a6ce657e82",
+    "tool_call_count": 0,
+    "tool_names": {},
+    "usage_event_count": 0
+  },
+  {
+    "event_type_counts": {
+      "agent_message": 32,
+      "assistant_message": 32,
+      "assistant_reasoning": 23,
+      "patch_apply_end": 3,
+      "session_meta": 1,
+      "task_complete": 5,
+      "task_started": 5,
+      "token_count": 40,
+      "tool_call": 43,
+      "tool_result": 43,
+      "turn_context": 5,
+      "user_message": 11,
+      "web_search_end": 8
+    },
+    "events": 251,
+    "first_timestamp": "2026-06-20T05:25:17.457Z",
+    "first_user_message_preview": "<environment_context>\n  <cwd>/data/home/sheshuchen</cwd>\n  <shell>bash</shell>\n  <current_date>2026-06-20</current_date>\n  <timezone>Asia/Shanghai</timezone>\n</environment_context>",
+    "last_timestamp": "2026-06-20T05:35:44.885Z",
+    "records": 266,
+    "session_ids": [
+      "019ee374-c007-7dc3-bce9-428a8b62ae8f"
+    ],
+    "source": "codex",
+    "source_file": "/data/home/sheshuchen/.codex/sessions/2026/06/20/rollout-2026-06-20T13-15-39-019ee374-c007-7dc3-bce9-428a8b62ae8f.jsonl",
+    "source_file_id": "b65eed1367bb6f68",
+    "tool_call_count": 43,
+    "tool_names": {
+      "exec_command": 36,
+      "update_plan": 4,
+      "write_stdin": 3
+    },
+    "usage_event_count": 40
+  },
+  {
+    "event_type_counts": {
+      "session_meta": 1,
+      "task_started": 1,
+      "turn_aborted": 1,
+      "turn_context": 1,
+      "user_message": 4
+    },
+    "events": 8,
+    "first_timestamp": "2026-06-23T05:16:46.783Z",
+    "first_user_message_preview": "<environment_context>\n  <cwd>/data/home/sheshuchen/sglang-session-radix-cache</cwd>\n  <shell>bash</shell>\n  <current_date>2026-06-23</current_date>\n  <timezone>Asia/Shanghai</timezone>\n</environment_context>",
+    "last_timestamp": "2026-06-23T05:17:33.476Z",
+    "records": 9,
+    "session_ids": [
+      "019ef2e8-5ad6-74a1-b667-871f55075d12"
+    ],
+    "source": "codex",
+    "source_file": "/data/home/sheshuchen/.codex/sessions/2026/06/23/rollout-2026-06-23T13-16-14-019ef2e8-5ad6-74a1-b667-871f55075d12.jsonl",
+    "source_file_id": "085f16a18e18c370",
+    "tool_call_count": 0,
+    "tool_names": {},
+    "usage_event_count": 0
+  },
+  {
+    "event_type_counts": {
+      "agent_message": 6,
+      "assistant_message": 6,
+      "assistant_reasoning": 5,
+      "session_meta": 1,
+      "task_complete": 1,
+      "task_started": 1,
+      "token_count": 7,
+      "tool_call": 22,
+      "tool_result": 22,
+      "turn_context": 1,
+      "user_message": 3
+    },
+    "events": 75,
+    "first_timestamp": "2026-06-23T05:18:07.875Z",
+    "first_user_message_preview": "<environment_context>\n  <cwd>/data/home/sheshuchen/sglang-session-radix-cache</cwd>\n  <shell>bash</shell>\n  <current_date>2026-06-23</current_date>\n  <timezone>Asia/Shanghai</timezone>\n</environment_context>",
+    "last_timestamp": "2026-06-23T05:19:24.351Z",
+    "records": 76,
+    "session_ids": [
+      "019ef2e9-edee-7172-9e57-28ccc9ecc39d"
+    ],
+    "source": "codex",
+    "source_file": "/data/home/sheshuchen/.codex/sessions/2026/06/23/rollout-2026-06-23T13-17-57-019ef2e9-edee-7172-9e57-28ccc9ecc39d.jsonl",
+    "source_file_id": "bb6a11d42bfd155b",
+    "tool_call_count": 22,
+    "tool_names": {
+      "exec_command": 22
+    },
+    "usage_event_count": 7
+  },
+  {
+    "event_type_counts": {
+      "agent_message": 128,
+      "assistant_message": 128,
+      "assistant_reasoning": 107,
+      "compacted": 1,
+      "context_compacted": 1,
+      "patch_apply_end": 7,
+      "session_meta": 1,
+      "task_complete": 5,
+      "task_started": 6,
+      "token_count": 153,
+      "tool_call": 262,
+      "tool_result": 262,
+      "turn_aborted": 1,
+      "turn_context": 7,
+      "user_message": 14
+    },
+    "events": 1083,
+    "first_timestamp": "2026-06-25T06:27:59.497Z",
+    "first_user_message_preview": "<environment_context>\n  <cwd>/data/home/sheshuchen/MiMo-Code/agent-trace-proxy/logs</cwd>\n  <shell>bash</shell>\n  <current_date>2026-06-25</current_date>\n  <timezone>Asia/Shanghai</timezone>\n</environment_context>",
+    "last_timestamp": "2026-06-25T08:19:03.174Z",
+    "records": 1138,
+    "session_ids": [
+      "019efd75-bfbf-7c82-a9ea-67edb3d86909"
+    ],
+    "source": "codex",
+    "source_file": "/data/home/sheshuchen/.codex/sessions/2026/06/25/rollout-2026-06-25T14-26-53-019efd75-bfbf-7c82-a9ea-67edb3d86909.jsonl",
+    "source_file_id": "dc05988272134bca",
+    "tool_call_count": 262,
+    "tool_names": {
+      "exec_command": 194,
+      "update_plan": 4,
+      "write_stdin": 64
+    },
+    "usage_event_count": 152
+  },
+  {
+    "event_type_counts": {
+      "session_meta": 1,
+      "task_started": 1,
+      "turn_aborted": 1,
+      "turn_context": 1,
+      "user_message": 4
+    },
+    "events": 8,
+    "first_timestamp": "2026-06-25T07:51:54.953Z",
+    "first_user_message_preview": "# AGENTS.md instructions for /data/home/sheshuchen/MiMo-Code\n\n<INSTRUCTIONS>\n- Always use superpowers skill instead of builtin plan mode.\n- To regenerate the JavaScript SDK, run `./packages/sdk/js/script/build.ts`.\n- ALWAYS USE PARALLEL TOOLS WHEN APPLICABLE.\n- The default branch in this repo is `dev`.\n- Local `main` ref may not exist; use `dev` or `origin/dev` for diffs.\n- Prefer automation: execute requested actions without confirmation unless blocked by missing info or safety/irreversibility.\n...[truncated 2491 chars]",
+    "last_timestamp": "2026-06-25T07:53:40.102Z",
+    "records": 9,
+    "session_ids": [
+      "019efdb9-8d85-7203-b1d1-a7fef546d80e"
+    ],
+    "source": "codex",
+    "source_file": "/data/home/sheshuchen/.codex/sessions/2026/06/25/rollout-2026-06-25T15-40-56-019efdb9-8d85-7203-b1d1-a7fef546d80e.jsonl",
+    "source_file_id": "7a3a3fdb25c9e209",
+    "tool_call_count": 0,
+    "tool_names": {},
+    "usage_event_count": 0
+  },
+  {
+    "event_type_counts": {
+      "agent_message": 49,
+      "assistant_message": 49,
+      "assistant_reasoning": 59,
+      "patch_apply_end": 2,
+      "session_meta": 1,
+      "task_complete": 3,
+      "task_started": 3,
+      "token_count": 61,
+      "tool_call": 145,
+      "tool_result": 145,
+      "turn_context": 3,
+      "user_message": 7
+    },
+    "events": 527,
+    "first_timestamp": "2026-06-25T07:54:13.998Z",
+    "first_user_message_preview": "# AGENTS.md instructions for /data/home/sheshuchen/MiMo-Code\n\n<INSTRUCTIONS>\n- Always use superpowers skill instead of builtin plan mode.\n- To regenerate the JavaScript SDK, run `./packages/sdk/js/script/build.ts`.\n- ALWAYS USE PARALLEL TOOLS WHEN APPLICABLE.\n- The default branch in this repo is `dev`.\n- Local `main` ref may not exist; use `dev` or `origin/dev` for diffs.\n- Prefer automation: execute requested actions without confirmation unless blocked by missing info or safety/irreversibility.\n...[truncated 2491 chars]",
+    "last_timestamp": "2026-06-25T08:56:13.303Z",
+    "records": 536,
+    "session_ids": [
+      "019efdc5-acc7-7e93-9fcd-3396cd466443"
+    ],
+    "source": "codex",
+    "source_file": "/data/home/sheshuchen/.codex/sessions/2026/06/25/rollout-2026-06-25T15-54-11-019efdc5-acc7-7e93-9fcd-3396cd466443.jsonl",
+    "source_file_id": "4a0bd2e42384254a",
+    "tool_call_count": 145,
+    "tool_names": {
+      "exec_command": 120,
+      "write_stdin": 25
+    },
+    "usage_event_count": 61
+  },
+  {
+    "event_type_counts": {
+      "agent_message": 170,
+      "assistant_message": 170,
+      "assistant_reasoning": 237,
+      "compacted": 2,
+      "context_compacted": 2,
+      "patch_apply_end": 46,
+      "session_meta": 1,
+      "task_complete": 31,
+      "task_started": 35,
+      "token_count": 338,
+      "tool_call": 488,
+      "tool_result": 488,
+      "turn_aborted": 4,
+      "turn_context": 37,
+      "user_message": 78
+    },
+    "events": 2127,
+    "first_timestamp": "2026-06-27T04:51:19.761Z",
+    "first_user_message_preview": "# AGENTS.md instructions for /data/home/sheshuchen/MiMo-Code\n\n<INSTRUCTIONS>\n- Always use superpowers skill instead of builtin plan mode.\n- To regenerate the JavaScript SDK, run `./packages/sdk/js/script/build.ts`.\n- ALWAYS USE PARALLEL TOOLS WHEN APPLICABLE.\n- The default branch in this repo is `dev`.\n- Local `main` ref may not exist; use `dev` or `origin/dev` for diffs.\n- Prefer automation: execute requested actions without confirmation unless blocked by missing info or safety/irreversibility.\n...[truncated 2491 chars]",
+    "last_timestamp": "2026-06-30T04:01:16.767Z",
+    "records": 2230,
+    "session_ids": [
+      "019f0769-da1b-79c0-9ba8-8054b5c7ea94"
+    ],
+    "source": "codex",
+    "source_file": "/data/home/sheshuchen/.codex/sessions/2026/06/27/rollout-2026-06-27T12-50-05-019f0769-da1b-79c0-9ba8-8054b5c7ea94.jsonl",
+    "source_file_id": "23b432a8d63c7a20",
+    "tool_call_count": 488,
+    "tool_names": {
+      "exec_command": 412,
+      "write_stdin": 76
+    },
+    "usage_event_count": 338
+  },
+  {
+    "event_type_counts": {
+      "agent_message": 14,
+      "assistant_message": 14,
+      "assistant_reasoning": 13,
+      "patch_apply_end": 1,
+      "session_meta": 1,
+      "task_complete": 3,
+      "task_started": 3,
+      "token_count": 17,
+      "tool_call": 33,
+      "tool_result": 33,
+      "turn_context": 3,
+      "user_message": 7
+    },
+    "events": 142,
+    "first_timestamp": "2026-06-30T09:45:10.884Z",
+    "first_user_message_preview": "<environment_context>\n  <cwd>/data/home/sheshuchen</cwd>\n  <shell>bash</shell>\n  <current_date>2026-06-30</current_date>\n  <timezone>Asia/Shanghai</timezone>\n</environment_context>",
+    "last_timestamp": "2026-06-30T10:31:57.138Z",
+    "records": 145,
+    "session_ids": [
+      "019f17e3-a59a-71f2-9db7-3d35a976932d"
+    ],
+    "source": "codex",
+    "source_file": "/data/home/sheshuchen/.codex/sessions/2026/06/30/rollout-2026-06-30T17-37-02-019f17e3-a59a-71f2-9db7-3d35a976932d.jsonl",
+    "source_file_id": "f6cf241c48b75a59",
+    "tool_call_count": 33,
+    "tool_names": {
+      "exec_command": 30,
+      "write_stdin": 3
+    },
+    "usage_event_count": 17
+  },
+  {
+    "event_type_counts": {
+      "agent_message": 39,
+      "assistant_message": 39,
+      "assistant_reasoning": 44,
+      "patch_apply_end": 14,
+      "session_meta": 1,
+      "task_complete": 1,
+      "task_started": 1,
+      "token_count": 56,
+      "tool_call": 95,
+      "tool_result": 95,
+      "turn_context": 1,
+      "user_message": 3
+    },
+    "events": 389,
+    "first_timestamp": "2026-07-02T05:03:30.661Z",
+    "first_user_message_preview": "<environment_context>\n  <cwd>/data/home/sheshuchen/SPEX</cwd>\n  <shell>bash</shell>\n  <current_date>2026-07-02</current_date>\n  <timezone>Asia/Shanghai</timezone>\n</environment_context>",
+    "last_timestamp": "2026-07-02T05:13:20.473Z",
+    "records": 418,
+    "session_ids": [
+      "019f2133-b2d4-7a20-bccd-4076e2539910"
+    ],
+    "source": "codex",
+    "source_file": "/data/home/sheshuchen/.codex/sessions/2026/07/02/rollout-2026-07-02T13-01-04-019f2133-b2d4-7a20-bccd-4076e2539910.jsonl",
+    "source_file_id": "2d6a3f491aa0b3a7",
+    "tool_call_count": 95,
+    "tool_names": {
+      "exec_command": 83,
+      "write_stdin": 12
+    },
+    "usage_event_count": 56
+  },
+  {
+    "event_type_counts": {
+      "agent_message": 79,
+      "assistant_message": 79,
+      "assistant_reasoning": 71,
+      "patch_apply_end": 8,
+      "session_meta": 1,
+      "task_complete": 1,
+      "task_started": 3,
+      "token_count": 96,
+      "tool_call": 183,
+      "tool_result": 182,
+      "turn_aborted": 1,
+      "turn_context": 3,
+      "user_message": 9
+    },
+    "events": 716,
+    "first_timestamp": "2026-07-02T05:15:16.611Z",
+    "first_user_message_preview": "<environment_context>\n  <cwd>/data/home/sheshuchen/MiroThinker</cwd>\n  <shell>bash</shell>\n  <current_date>2026-07-02</current_date>\n  <timezone>Asia/Shanghai</timezone>\n</environment_context>",
+    "last_timestamp": "2026-07-03T03:04:28.156Z",
+    "records": 735,
+    "session_ids": [
+      "019f213d-f882-7111-8f9d-ee874b52e6d4"
+    ],
+    "source": "codex",
+    "source_file": "/data/home/sheshuchen/.codex/sessions/2026/07/02/rollout-2026-07-02T13-12-17-019f213d-f882-7111-8f9d-ee874b52e6d4.jsonl",
+    "source_file_id": "e0f7e5def40ce4fb",
+    "tool_call_count": 183,
+    "tool_names": {
+      "exec_command": 148,
+      "write_stdin": 35
+    },
+    "usage_event_count": 96
+  },
+  {
+    "event_type_counts": {
+      "agent_message": 172,
+      "assistant_message": 172,
+      "assistant_reasoning": 152,
+      "compacted": 1,
+      "context_compacted": 1,
+      "patch_apply_end": 7,
+      "session_meta": 1,
+      "task_complete": 8,
+      "task_started": 9,
+      "token_count": 202,
+      "tool_call": 375,
+      "tool_result": 375,
+      "turn_context": 10,
+      "user_message": 20,
+      "web_search_end": 1
+    },
+    "events": 1506,
+    "first_timestamp": "2026-07-02T05:45:23.047Z",
+    "first_user_message_preview": "<environment_context>\n  <cwd>/data/home/sheshuchen/SPEX</cwd>\n  <shell>bash</shell>\n  <current_date>2026-07-02</current_date>\n  <timezone>Asia/Shanghai</timezone>\n</environment_context>",
+    "last_timestamp": "2026-07-03T03:00:27.581Z",
+    "records": 1524,
+    "session_ids": [
+      "019f214a-cc5e-7d61-8979-d79e143924cd"
+    ],
+    "source": "codex",
+    "source_file": "/data/home/sheshuchen/.codex/sessions/2026/07/02/rollout-2026-07-02T13-26-17-019f214a-cc5e-7d61-8979-d79e143924cd.jsonl",
+    "source_file_id": "f5f04b7554ee8dd0",
+    "tool_call_count": 375,
+    "tool_names": {
+      "exec_command": 270,
+      "write_stdin": 105
+    },
+    "usage_event_count": 202
+  },
+  {
+    "event_type_counts": {
+      "last-prompt": 1,
+      "mode": 1,
+      "permission-mode": 1,
+      "system": 2
+    },
+    "events": 5,
+    "first_timestamp": "2026-06-26T12:52:16.659Z",
+    "first_user_message_preview": "",
+    "last_timestamp": "2026-06-26T12:52:16.659Z",
+    "records": 5,
+    "session_ids": [
+      "e6bcd808-672a-4867-9fca-c0031432ee7f"
+    ],
+    "source": "claude",
+    "source_file": "/data/home/sheshuchen/.claude/projects/-data-home-sheshuchen/e6bcd808-672a-4867-9fca-c0031432ee7f.jsonl",
+    "source_file_id": "4c59b0ba4d7d8605",
+    "tool_call_count": 0,
+    "tool_names": {},
+    "usage_event_count": 0
+  },
+  {
+    "event_type_counts": {
+      "assistant_text": 93,
+      "assistant_thinking": 80,
+      "attachment": 315,
+      "last-prompt": 55,
+      "mode": 56,
+      "permission-mode": 56,
+      "queue_dequeue": 2,
+      "queue_enqueue": 17,
+      "queue_remove": 15,
+      "system": 12,
+      "title": 56,
+      "tool_call": 289,
+      "tool_result": 289,
+      "user_message": 10
+    },
+    "events": 1345,
+    "first_timestamp": "2026-06-26T06:07:43.884Z",
+    "first_user_message_preview": "<local-command-caveat>Caveat: The messages below were generated by the user while running local commands. DO NOT respond to these messages or otherwise consider them in your response unless the user explicitly asks you to.</local-command-caveat>",
+    "last_timestamp": "2026-06-26T08:13:38.655Z",
+    "records": 1362,
+    "session_ids": [
+      "453930f6-9aff-4701-8d3b-85d39948b675"
+    ],
+    "source": "claude",
+    "source_file": "/data/home/sheshuchen/.claude/projects/-data-home-sheshuchen-MiMo-Code-agent-trace-proxy-logs/453930f6-9aff-4701-8d3b-85d39948b675.jsonl",
+    "source_file_id": "ff3d8a2df5cdba56",
+    "tool_call_count": 289,
+    "tool_names": {
+      "Bash": 257,
+      "Edit": 3,
+      "Read": 14,
+      "Write": 15
+    },
+    "usage_event_count": 462
+  },
+  {
+    "event_type_counts": {
+      "assistant_text": 131,
+      "assistant_thinking": 205,
+      "attachment": 727,
+      "last-prompt": 168,
+      "mode": 158,
+      "permission-mode": 158,
+      "queue_enqueue": 14,
+      "queue_remove": 13,
+      "system": 23,
+      "title": 158,
+      "tool_call": 646,
+      "tool_result": 646,
+      "user_message": 31
+    },
+    "events": 3078,
+    "first_timestamp": "2026-06-26T08:19:18.976Z",
+    "first_user_message_preview": "我目前想做这篇论文：论文雏形：FoREST: Fork-Aware Recurrent State Caching for Agentic Hybrid LLM Serving\nIntro：大模型推理分为prefill和decode，prefill产生和存储kv cache，若是能够复用之前的kv cache可以减少计算量，减少TTFT。agent交互是一个新的场景，现有工作对于linear attn比如mamba cache的存储比较粗糙（因为现在大模型有hybrid model，比如qwen3 next和qwen3.5这种linear：full=3：1的，我们主要研究这种混合模型），我们希望研究agent的工作特性，设计感知agent工作流的linear attn。\nMotivation:我们用两个trace测试，一个是上一轮的回复和工具调用和结果等等，一个是sub agent复用前缀和调用，理想情况应该是前缀可以复用，但实际上没有cache住，这就是我们发现的不足之处。\nInsight:我们发现一些部分会在多轮对话中被删除掉，这就会造成分叉。\nRelate Work：contin\n...[truncated 1089 chars]",
+    "last_timestamp": "2026-06-27T10:34:47.692Z",
+    "records": 3127,
+    "session_ids": [
+      "c068b59d-69c2-418f-97f1-1615d6a5e0be"
+    ],
+    "source": "claude",
+    "source_file": "/data/home/sheshuchen/.claude/projects/-data-home-sheshuchen-MiMo-Code-agent-trace-proxy-logs/c068b59d-69c2-418f-97f1-1615d6a5e0be.jsonl",
+    "source_file_id": "8ad0c251d3a6c2a0",
+    "tool_call_count": 646,
+    "tool_names": {
+      "Bash": 493,
+      "Edit": 33,
+      "Read": 94,
+      "Write": 26
+    },
+    "usage_event_count": 982
+  },
+  {
+    "event_type_counts": {
+      "assistant_text": 5,
+      "attachment": 2,
+      "last-prompt": 3,
+      "queue_dequeue": 1,
+      "queue_enqueue": 1,
+      "title": 3,
+      "tool_call": 17,
+      "tool_result": 17,
+      "user_message": 1
+    },
+    "events": 50,
+    "first_timestamp": "2026-06-26T13:15:51.230Z",
+    "first_user_message_preview": "你是一个Python开发者。请完成以下任务：\n1. 创建文件 lru_cache.py，实现一个LRU Cache类，使用双向链表+哈希表实现，支持get(key)和put(key, value)操作（O(1)复杂度），容量为构造参数。\n2. 创建文件 test_lru_cache.py，编写至少15个单元测试，覆盖边界情况。\n3. 运行测试：python test_lru_cache.py -v\n4. 如有失败，修复直到全部通过。\n5. 给LRUCache类添加完整docstring（中英双语）。\n6. 最后再次运行测试确认全部通过。",
+    "last_timestamp": "2026-06-26T13:18:20.273Z",
+    "records": 50,
+    "session_ids": [
+      "930febf7-62f2-4d9e-a259-6f490c7cee55"
+    ],
+    "source": "claude",
+    "source_file": "/data/home/sheshuchen/.claude/projects/-data-home-sheshuchen-ssc-dataset-trace-forest-exp3-claude-code-workspace/930febf7-62f2-4d9e-a259-6f490c7cee55.jsonl",
+    "source_file_id": "b74f4c3ce1c487ac",
+    "tool_call_count": 17,
+    "tool_names": {
+      "Bash": 2,
+      "Edit": 1,
+      "TaskCreate": 4,
+      "TaskUpdate": 8,
+      "Write": 2
+    },
+    "usage_event_count": 22
+  },
+  {
+    "event_type_counts": {
+      "assistant_text": 1,
+      "attachment": 2,
+      "last-prompt": 1,
+      "queue_dequeue": 1,
+      "queue_enqueue": 1,
+      "user_message": 1
+    },
+    "events": 7,
+    "first_timestamp": "2026-06-26T13:11:38.577Z",
+    "first_user_message_preview": "你是一个Python开发者。请完成以下任务：\n1. 创建文件 lru_cache.py，实现一个LRU Cache类，使用双向链表+哈希表实现，支持get(key)和put(key, value)操作（O(1)复杂度），容量为构造参数。\n2. 创建文件 test_lru_cache.py，编写至少15个单元测试，覆盖边界情况。\n3. 运行测试：python test_lru_cache.py -v\n4. 如有失败，修复直到全部通过。\n5. 给LRUCache类添加完整docstring（中英双语）。\n6. 最后再次运行测试确认全部通过。",
+    "last_timestamp": "2026-06-26T13:12:23.119Z",
+    "records": 7,
+    "session_ids": [
+      "bdb893f1-f20e-4ff8-b3ac-b1732e5aa69c"
+    ],
+    "source": "claude",
+    "source_file": "/data/home/sheshuchen/.claude/projects/-data-home-sheshuchen-ssc-dataset-trace-forest-exp3-claude-code-workspace/bdb893f1-f20e-4ff8-b3ac-b1732e5aa69c.jsonl",
+    "source_file_id": "f66ff41aa2c045c2",
+    "tool_call_count": 0,
+    "tool_names": {},
+    "usage_event_count": 1
+  },
+  {
+    "event_type_counts": {
+      "assistant_text": 1,
+      "attachment": 2,
+      "last-prompt": 1,
+      "queue_dequeue": 1,
+      "queue_enqueue": 1,
+      "user_message": 1
+    },
+    "events": 7,
+    "first_timestamp": "2026-06-26T13:13:26.197Z",
+    "first_user_message_preview": "你是一个Python开发者。请完成以下任务：\n1. 创建文件 lru_cache.py，实现一个LRU Cache类，使用双向链表+哈希表实现，支持get(key)和put(key, value)操作（O(1)复杂度），容量为构造参数。\n2. 创建文件 test_lru_cache.py，编写至少15个单元测试，覆盖边界情况。\n3. 运行测试：python test_lru_cache.py -v\n4. 如有失败，修复直到全部通过。\n5. 给LRUCache类添加完整docstring（中英双语）。\n6. 最后再次运行测试确认全部通过。",
+    "last_timestamp": "2026-06-26T13:14:16.422Z",
+    "records": 7,
+    "session_ids": [
+      "c1f280ab-b711-4c9f-b69b-4f1ec4380a24"
+    ],
+    "source": "claude",
+    "source_file": "/data/home/sheshuchen/.claude/projects/-data-home-sheshuchen-ssc-dataset-trace-forest-exp3-claude-code-workspace/c1f280ab-b711-4c9f-b69b-4f1ec4380a24.jsonl",
+    "source_file_id": "473b7fe695144e67",
+    "tool_call_count": 0,
+    "tool_names": {},
+    "usage_event_count": 1
+  },
+  {
+    "event_type_counts": {
+      "assistant_text": 4,
+      "assistant_thinking": 1,
+      "attachment": 4,
+      "last-prompt": 3,
+      "queue_dequeue": 1,
+      "queue_enqueue": 1,
+      "title": 3,
+      "tool_call": 24,
+      "tool_result": 24,
+      "user_message": 1
+    },
+    "events": 66,
+    "first_timestamp": "2026-06-27T05:50:13.657Z",
+    "first_user_message_preview": "请完成以下步骤（严格按顺序，不要跳过）：\n步骤1：用TaskCreate创建3个任务：任务A「创建utils.py」、任务B「创建 helpers.py」、任务C「创建config.py」。\n步骤2：接下来只用Bash工具，不要用任何Task工具。依次执行以下20条命令，每条单独执行：\n  echo 'step_01' && python3 -c 'import math; print(math.pi)'\n  echo 'step_02' && python3 -c 'print(sum(range(10)))'\n  echo 'step_03' && ls -la\n  echo 'step_04' && python3 -c 'print([i**2 for i in range(5)])'\n  echo 'step_05' && pwd\n  echo 'step_06' && python3 -c 'print({k: k*2 for k in range(5)})'\n  echo 'step_07' && date\n  echo 'step_08' && python3 -c '\n...[truncated 689 chars]",
+    "last_timestamp": "2026-06-27T05:51:44.304Z",
+    "records": 66,
+    "session_ids": [
+      "c941fb19-2b81-43b7-ad66-d9f9d8dc494d"
+    ],
+    "source": "claude",
+    "source_file": "/data/home/sheshuchen/.claude/projects/-data-home-sheshuchen-ssc-dataset-trace-forest-exp4-cc-reminders-workspace/c941fb19-2b81-43b7-ad66-d9f9d8dc494d.jsonl",
+    "source_file_id": "05f5325d23a77747",
+    "tool_call_count": 24,
+    "tool_names": {
+      "Bash": 20,
+      "TaskCreate": 3,
+      "Write": 1
+    },
+    "usage_event_count": 29
+  },
+  {
+    "event_type_counts": {
+      "assistant_text": 2,
+      "assistant_thinking": 1,
+      "attachment": 2,
+      "last-prompt": 1,
+      "queue_dequeue": 1,
+      "queue_enqueue": 1,
+      "title": 1,
+      "tool_call": 3,
+      "tool_result": 3,
+      "user_message": 1
+    },
+    "events": 16,
+    "first_timestamp": "2026-06-27T06:17:09.442Z",
+    "first_user_message_preview": "请用Bash工具依次执行以下3条命令（每条单独执行）：\n1. echo 'hello world'\n2. python3 -c 'print(1+1)'\n3. pwd\n完成后输出一句话总结。",
+    "last_timestamp": "2026-06-27T06:17:20.063Z",
+    "records": 16,
+    "session_ids": [
+      "36c1dca8-9991-452b-9f38-a27a30594241"
+    ],
+    "source": "claude",
+    "source_file": "/data/home/sheshuchen/.claude/projects/-data-home-sheshuchen-ssc-dataset-trace-forest-exp5-context-fill-workspace/36c1dca8-9991-452b-9f38-a27a30594241.jsonl",
+    "source_file_id": "0c7d2646acd3579c",
+    "tool_call_count": 3,
+    "tool_names": {
+      "Bash": 3
+    },
+    "usage_event_count": 6
+  },
+  {
+    "event_type_counts": {
+      "assistant_text": 2,
+      "attachment": 3,
+      "last-prompt": 1,
+      "queue_dequeue": 1,
+      "queue_enqueue": 1,
+      "title": 2,
+      "tool_call": 10,
+      "tool_result": 10,
+      "user_message": 1
+    },
+    "events": 31,
+    "first_timestamp": "2026-06-27T06:18:18.645Z",
+    "first_user_message_preview": "请依次（每步单独执行，不要并行）用Bash工具执行以下10条命令，每条执行完再执行下一条：\n步骤1: echo 'step1'\n步骤2: echo 'step2'\n步骤3: echo 'step3'\n步骤4: echo 'step4'\n步骤5: echo 'step5'\n步骤6: echo 'step6'\n步骤7: echo 'step7'\n步骤8: echo 'step8'\n步骤9: echo 'step9'\n步骤10: echo 'step10'\n全部完成后输出一行总结。",
+    "last_timestamp": "2026-06-27T06:19:04.233Z",
+    "records": 31,
+    "session_ids": [
+      "7d3d41c9-981f-4641-994d-73ff3f89d894"
+    ],
+    "source": "claude",
+    "source_file": "/data/home/sheshuchen/.claude/projects/-data-home-sheshuchen-ssc-dataset-trace-forest-exp5-context-fill-workspace/7d3d41c9-981f-4641-994d-73ff3f89d894.jsonl",
+    "source_file_id": "05b26895c80cc7bc",
+    "tool_call_count": 10,
+    "tool_names": {
+      "Bash": 10
+    },
+    "usage_event_count": 12
+  },
+  {
+    "event_type_counts": {
+      "assistant_text": 6,
+      "attachment": 3,
+      "last-prompt": 1,
+      "queue_dequeue": 1,
+      "queue_enqueue": 1,
+      "title": 1,
+      "tool_call": 5,
+      "tool_result": 5,
+      "user_message": 1
+    },
+    "events": 24,
+    "first_timestamp": "2026-06-27T06:24:24.259Z",
+    "first_user_message_preview": "请依次（每步单独执行）用Bash工具执行以下5条命令：\n步骤1: echo 'step1'\n步骤2: echo 'step2'\n步骤3: echo 'step3'\n步骤4: echo 'step4'\n步骤5: echo 'step5'\n全部完成后输出一行总结。",
+    "last_timestamp": "2026-06-27T06:24:47.499Z",
+    "records": 24,
+    "session_ids": [
+      "718034a0-98c8-4c2d-8b51-bab546e761bc"
+    ],
+    "source": "claude",
+    "source_file": "/data/home/sheshuchen/.claude/projects/-data-home-sheshuchen-ssc-dataset-trace-forest-exp5-context-fill-workspace2/718034a0-98c8-4c2d-8b51-bab546e761bc.jsonl",
+    "source_file_id": "8dfb3014e9e6ebeb",
+    "tool_call_count": 5,
+    "tool_names": {
+      "Bash": 5
+    },
+    "usage_event_count": 11
+  }
+]
