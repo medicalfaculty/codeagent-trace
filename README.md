@@ -9,6 +9,7 @@
 - `data/normalized/`：统一格式的事件流，便于做统计和分析。
 - `data/summaries/`：按来源、会话、事件类型聚合的统计信息。
 - `docs/`：中文说明和典型过程分析。
+- `docs/tool_result_analysis/`：最长 tool result 与可能最长工具调用耗时的专项分析。
 - `tools/export_traces.py`：从 `~/.codex` 和 `~/.claude` 重新导出数据的脚本。
 
 ## 数据处理原则
